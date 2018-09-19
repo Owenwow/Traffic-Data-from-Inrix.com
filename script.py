@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[1]:
-
-
 from bs4 import BeautifulSoup
 import urllib.request as urllib2
 import pandas as pd
