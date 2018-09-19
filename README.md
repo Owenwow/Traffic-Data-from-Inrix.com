@@ -13,5 +13,7 @@ Since the html code including traffic data is written in `javascript`, which can
 How can I use `request` library to download code including `javascript`?
 
 ## Conclusion:
+First time using Github.
+
 First project about `BeautifulSoup`, it took me more than 20 hours to complete it.
 For a student without CS background, this project is tough. However, it is good to learn, isn't it?
