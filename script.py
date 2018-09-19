@@ -12,7 +12,7 @@ import lxml
 import csv
 
 #Reading the file locally.
-with open('coding.txt','rt', encoding='utf-8') as f:
+with open('soup.txt','rt', encoding='utf-8') as f:
    soup = BeautifulSoup(f,"lxml")
 
 #Function of Extracting Country from text.
