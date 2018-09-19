@@ -2,7 +2,8 @@
 Extract data from inrix.com/scorecard/ which is about traffic infromation for over 1300 cities wordwidely.
 
 ## Description:
-`soup.txt`: code pasted from inrix.com.
+`soup.txt`: code pasted from inrix.com
+
 `script.py`: coding for extracting data from `soup.txt`
 
 ## Attention:
