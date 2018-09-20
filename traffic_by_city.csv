@@ -1,0 +1,1361 @@
+﻿City,Country,2017 All Cities Rank,2017 Inrix Traffic Scorecard Rank,Hours Spent in Congestion,ICI,Peak,Daytime,Overall
+Los Angeles,USA,1,1,102,18.3,21%,11%,12%
+Moscow,Russia,2,2,91,20.1,32%,30%,26%
+New York City,USA,3,3,91,17.4,19%,11%,13%
+São Paulo,Brazil,4,4,86,16.9,30%,23%,22%
+San Francisco,USA,5,5,79,13.7,21%,10%,12%
+Bogota,Colombia,6,6,75,16.2,36%,30%,30%
+London,UK,7,7,74,14.1,20%,12%,13%
+Atlanta,USA,10,8,70,12.3,17%,9%,10%
+Paris,France,12,9,69,13.1,21%,12%,13%
+Miami,USA,14,10,64,11.8,13%,7%,9%
+Bangkok,Thailand,16,11,64,12.5,33%,23%,23%
+Jakarta,Indonesia,17,12,63,13.4,24%,21%,20%
+Washington,USA,18,13,63,10.8,20%,9%,11%
+Boston,USA,19,14,60,10.6,23%,12%,14%
+Istanbul,Turkey,20,15,59,12.2,25%,19%,19%
+Mexico City,Mexico,21,16,58,12.4,16%,13%,13%
+Chicago,USA,22,17,57,10.3,17%,9%,10%
+Medellin,Colombia,23,18,57,11.4,29%,21%,21%
+Krasnodar,Russia,24,19,57,12.4,31%,28%,25%
+Seattle,USA,26,20,55,9.6,22%,11%,12%
+Saint Petersburg,Russia,27,21,54,11.6,26%,22%,21%
+Dallas,USA,28,22,54,9.3,11%,5%,6%
+Zürich,Switzerland,33,23,51,9.2,29%,17%,17%
+Rio de Janeiro,Brazil,34,24,51,10.6,18%,16%,15%
+Munich,Germany,35,25,51,9.1,27%,16%,16%
+Houston,USA,37,26,50,8.4,13%,5%,7%
+Montréal,Canada,38,27,50,9.2,21%,10%,13%
+Portland,USA,40,28,50,8.1,21%,9%,11%
+Cape Town,South Africa,41,29,49,8,25%,11%,13%
+Cali,Colombia,42,30,49,9.6,25%,18%,19%
+Sochi,Russia,44,31,48,10.9,28%,26%,24%
+San Diego,USA,45,32,48,7.7,19%,7%,10%
+Nizhniy Novgorod,Russia,47,33,48,10.2,26%,22%,20%
+Toronto,Canada,49,34,47,8.9,19%,9%,12%
+Oslo,Norway,53,35,46,7.6,25%,10%,13%
+Johannesburg,South Africa,55,36,46,7.3,18%,7%,9%
+Hamburg,Germany,66,37,44,8,24%,17%,14%
+Berlin,Germany,67,38,44,8.3,23%,18%,14%
+Stuttgart,Germany,69,39,44,7.9,22%,14%,13%
+Austin,USA,72,40,43,7.4,20%,8%,11%
+Madrid,Spain,76,41,42,8.2,19%,13%,13%
+Stamford,USA,81,42,41,7.2,23%,12%,13%
+Tacoma,USA,83,43,41,7,20%,10%,11%
+Minneapolis,USA,85,44,41,6.5,14%,5%,7%
+Ruhrgebiet,Germany,87,45,40,7.5,16%,11%,10%
+Vienna,Austria,89,46,40,7.9,23%,15%,14%
+Cologne,Germany,92,47,40,7,20%,12%,11%
+Manchester,UK,97,48,39,6.8,18%,8%,10%
+Brussels,Belgium,101,49,39,6.4,22%,11%,11%
+Belo Horizonte,Brazil,103,50,39,7.5,19%,15%,14%
+Rome,Italy,104,51,39,7,20%,12%,13%
+Philadelphia,USA,108,52,37,6.8,12%,7%,8%
+Porto Alegre,Brazil,114,53,37,7.1,19%,15%,14%
+Honolulu,USA,116,54,37,6.7,17%,10%,11%
+Birmingham,UK,117,55,36,6.3,16%,8%,9%
+Frankfurt am Main,Germany,119,56,36,5.9,19%,9%,10%
+Denver,USA,120,57,36,6.5,13%,7%,8%
+Lausanne,Switzerland,123,58,36,5.6,21%,8%,11%
+Detroit,USA,127,59,35,6,10%,5%,6%
+Karlsruhe,Germany,136,60,34,6.4,21%,15%,12%
+Stockholm,Sweden,138,61,34,4.9,19%,7%,9%
+Orlando,USA,139,62,34,6.4,11%,6%,7%
+Phoenix,USA,140,63,34,5.8,9%,4%,6%
+Milan,Italy,145,64,33,5.7,16%,7%,9%
+Düsseldorf,Germany,154,65,33,5.5,18%,10%,10%
+Wiesbaden,Germany,157,66,32,5.2,18%,8%,9%
+Baton Rouge,USA,158,67,32,5.6,18%,9%,10%
+Guadalajara,Mexico,161,68,32,6.8,16%,12%,12%
+Riyadh,Saudi Arabia,165,69,31,7.4,14%,10%,13%
+Lyon,France,166,70,31,5.5,18%,9%,10%
+San Juan,Puerto Rico,172,71,31,5.7,16%,10%,10%
+Hanover,Germany,174,72,31,5.6,16%,11%,10%
+Dublin,Ireland,175,73,31,5.3,16%,9%,10%
+Quito,Ecuador,178,74,31,6.7,17%,15%,13%
+Monterrey,Mexico,180,75,30,6.1,13%,9%,10%
+Nürnberg,Germany,197,76,30,5.7,17%,13%,11%
+Vancouver,Canada,203,77,29,5.2,15%,7%,9%
+Dubai,United Arab Emirates,208,78,29,6.4,12%,10%,10%
+Luton,UK,209,79,29,5.2,17%,8%,11%
+Barcelona,Spain,213,80,28,5.4,14%,9%,10%
+Gothenburg,Sweden,219,81,28,4.7,17%,6%,8%
+Mannheim,Germany,220,82,28,5,14%,9%,8%
+Edinburgh,UK,221,83,28,5,16%,9%,9%
+Bonn,Germany,226,84,28,4.5,15%,8%,8%
+Tampa,USA,228,85,28,4.6,13%,5%,7%
+Berne,Switzerland,231,86,28,4.2,16%,7%,8%
+Utrecht,Netherlands,234,87,27,4.6,16%,8%,9%
+Wuppertal,Germany,243,88,27,4.7,16%,8%,8%
+Baltimore,USA,252,89,27,4.9,11%,6%,7%
+Bristol,UK,253,90,27,4.7,15%,7%,9%
+Guayaquil,Ecuador,254,91,27,5.6,18%,13%,13%
+Bournemouth,UK,258,92,27,5.6,16%,12%,11%
+Cincinnati,USA,262,93,26,4.6,13%,6%,7%
+Pretoria,South Africa,275,94,26,4.2,14%,6%,7%
+Toulon,France,290,95,25,4.6,14%,8%,8%
+San Antonio,USA,297,96,25,4.3,10%,5%,6%
+Puebla,Mexico,298,97,25,5.6,13%,11%,11%
+Sacramento,USA,303,98,25,4.4,11%,6%,7%
+Palermo,Italy,305,99,24,4.7,14%,10%,10%
+Las Vegas,USA,314,100,24,4.8,11%,7%,8%
+The Hague,Netherlands,317,101,24,4.1,13%,6%,7%
+New Orleans,USA,320,102,24,4.3,11%,5%,7%
+Southampton,UK,322,103,24,3.9,14%,5%,8%
+Prague,Czech Republic,323,104,24,5.1,15%,10%,10%
+Copenhagen,Denmark,326,105,24,4.5,14%,6%,8%
+Helsinki,Finland,327,106,24,4.7,13%,9%,9%
+Turin,Italy,329,107,24,4.2,13%,6%,8%
+Newcastle upon Tyne,UK,332,108,24,4.2,12%,5%,7%
+Budapest,Hungary,335,109,24,4.3,11%,8%,7%
+Coventry,UK,346,110,23,3.9,13%,6%,7%
+Glasgow,UK,350,111,23,3.8,11%,4%,6%
+Jeddah,Saudi Arabia,351,112,23,4.9,11%,8%,10%
+Leicester,UK,359,113,23,3.7,14%,5%,7%
+Taganrog,Russia,362,114,23,5.3,13%,13%,13%
+Columbus,USA,365,115,23,3.8,10%,5%,6%
+Florence,Italy,366,116,23,4,12%,8%,8%
+Lille,France,367,117,23,3.6,13%,5%,6%
+Warrington,UK,372,118,22,3.9,12%,6%,7%
+Lisbon,Portugal,375,119,22,4.3,12%,6%,9%
+Leiden,Netherlands,380,120,22,3.8,13%,7%,7%
+Sorocaba,Brazil,384,121,22,4.7,13%,12%,11%
+Norfolk,USA,385,122,22,4,10%,5%,7%
+Nice,France,386,123,22,4,12%,7%,8%
+Stoke-on-Trent,UK,398,124,22,3.6,13%,6%,7%
+Bridgeport,USA,401,125,22,4.2,12%,7%,9%
+Leeds,UK,407,126,21,3.7,10%,4%,6%
+Providence,USA,413,127,21,3.7,10%,5%,6%
+Ann Arbor,USA,417,128,21,3.3,11%,4%,6%
+Belfast,UK,430,129,21,3.8,12%,6%,8%
+Clearwater,USA,434,130,21,4,9%,5%,6%
+Jacksonville,USA,437,131,21,3.5,9%,4%,6%
+Milwaukee,USA,439,132,21,3.7,8%,4%,5%
+St. Louis,USA,444,133,20,3.4,8%,3%,4%
+Liverpool,UK,448,134,20,4.1,11%,7%,9%
+Wilmington,USA,450,135,20,3.9,10%,6%,7%
+Bologna,Italy,458,136,20,3.6,12%,6%,8%
+Sheffield,UK,463,137,20,3.4,10%,4%,6%
+Hartford,USA,485,138,19,3.6,9%,5%,6%
+Varese,Italy,488,139,19,4.2,11%,8%,10%
+Louisville,USA,499,140,19,3.4,10%,6%,6%
+Mecca,Saudi Arabia,506,141,18,4.7,9%,8%,11%
+Acapulco de Juárez,Mexico,511,142,18,4.2,11%,10%,9%
+Oaxaca,Mexico,512,143,18,4.4,10%,11%,10%
+Swansea,UK,514,144,18,3.2,10%,5%,6%
+Kansas City,USA,516,145,18,3.2,7%,3%,4%
+Cleveland,USA,517,146,18,3,8%,3%,4%
+Ciudad Juárez,Mexico,519,147,18,4.4,9%,9%,9%
+Raleigh,USA,529,148,18,3.1,10%,4%,6%
+Birmingham,USA,530,149,18,3,9%,5%,5%
+Indianapolis,USA,539,150,17,3,8%,4%,5%
+Aguascalientes,Mexico,552,151,17,4.1,10%,9%,9%
+Memphis,USA,556,152,17,3.2,8%,5%,5%
+Naples,Italy,569,153,17,3.4,9%,6%,7%
+Swindon,UK,581,154,16,2.7,10%,4%,5%
+Buffalo,USA,582,155,16,3.1,9%,6%,6%
+Eindhoven,Netherlands,586,156,16,3.1,9%,7%,6%
+Calgary,Canada,596,157,16,2.9,8%,4%,5%
+Toluca,Mexico,605,158,16,3.4,8%,8%,7%
+Colorado Springs,USA,614,159,15,3.1,8%,6%,7%
+Sarasota,USA,627,160,15,3,7%,5%,5%
+Saltillo,Mexico,638,161,15,3.4,8%,7%,7%
+Bilbao,Spain,654,162,15,3.1,9%,7%,7%
+Preston,UK,668,163,15,2.6,8%,5%,5%
+Veracruz,Mexico,669,164,15,3.2,8%,6%,7%
+Albuquerque,USA,670,165,14,2.7,8%,5%,5%
+Oklahoma City,USA,684,166,14,2.7,7%,5%,5%
+Edmonton,Canada,696,167,14,3,7%,5%,5%
+El Paso,USA,711,168,14,3.3,7%,7%,7%
+Allentown,USA,725,169,13,2.6,7%,6%,5%
+Abu Dhabi,United Arab Emirates,727,170,13,2.9,7%,6%,6%
+Zaragoza,Spain,747,171,13,3.1,8%,7%,8%
+Columbia,USA,753,172,13,2.3,7%,4%,4%
+Puerto Vallarta,Mexico,816,173,12,2.9,7%,8%,6%
+La Paz,Mexico,826,174,12,3.1,7%,8%,8%
+Medina,Saudi Arabia,835,175,12,3,6%,6%,7%
+Pamplona,Spain,853,176,11,2.6,7%,6%,6%
+Richmond,USA,868,177,11,2.2,5%,4%,4%
+Winnipeg,Canada,884,178,11,2.1,6%,4%,4%
+Evansville,USA,891,179,11,2.1,5%,5%,4%
+Tucson,USA,904,180,10,2,5%,4%,4%
+Singapore,Singapore,906,181,10,1.8,5%,2%,3%
+Fort Myers,USA,934,182,10,1.9,6%,4%,4%
+Manchester,USA,935,183,10,2,6%,4%,4%
+Dammam,Saudi Arabia,937,184,10,2.3,6%,4%,5%
+Tulsa,USA,957,185,10,1.8,5%,4%,3%
+Dayton,USA,977,186,10,1.8,4%,3%,3%
+Melbourne,USA,985,187,9,1.9,5%,4%,4%
+Winston-Salem,USA,1035,188,9,1.6,5%,3%,3%
+Coatzacoalcos,Mexico,1037,189,9,2.3,5%,6%,5%
+Charleroi,Belgium,1072,190,8,1.4,5%,3%,3%
+Port Saint Lucie,USA,1074,191,8,2,5%,4%,5%
+Busto Arsizio,Italy,1078,192,8,1.6,5%,3%,3%
+Tours,France,1107,193,8,1.5,5%,3%,3%
+Tlaxcala,Mexico,1136,194,7,1.9,4%,5%,4%
+Shreveport,USA,1145,195,7,1.4,4%,3%,3%
+Avignon,France,1195,196,7,1.2,4%,3%,3%
+South Bend,USA,1213,197,6,1.3,3%,2%,3%
+Wichita,USA,1226,198,6,1.3,3%,3%,3%
+Appleton,USA,1232,199,6,1.3,3%,3%,3%
+Topeka,USA,1285,200,5,1.2,3%,3%,3%
+Magnitogorsk,Russia,8,-,73,18,42%,38%,44%
+Yurga,Russia,9,-,71,16.7,42%,41%,39%
+Aerodromnyy,Russia,11,-,69,16.1,41%,40%,37%
+Caracas,Venezuela,13,-,67,12.8,37%,29%,23%
+Kansk,Russia,15,-,64,15,38%,34%,34%
+Belém,Brazil,25,-,55,11.7,31%,29%,25%
+Los Teques,Venezuela,29,-,53,10.9,32%,32%,22%
+São José,Brazil,30,-,52,10.3,30%,24%,22%
+Novosibirsk,Russia,31,-,52,10.9,28%,24%,22%
+Geneva,Switzerland,32,-,52,8.4,30%,12%,16%
+Yekaterinburg,Russia,36,-,51,10.6,28%,23%,22%
+Bucaramanga,Colombia,39,-,50,9.4,29%,17%,20%
+Ufa,Russia,43,-,48,10.9,27%,23%,24%
+Vladivostok,Russia,46,-,48,9.9,28%,24%,20%
+Saratov,Russia,48,-,48,10.6,25%,22%,21%
+Salvador,Brazil,50,-,47,8.7,26%,19%,17%
+Anapa,Russia,51,-,47,11.1,28%,27%,26%
+Pasto,Colombia,52,-,47,10.3,26%,25%,23%
+Adler,Russia,54,-,46,10.6,26%,26%,24%
+Bandung,Indonesia,56,-,46,10.1,27%,24%,22%
+Bykovo,Russia,57,-,46,10.5,27%,25%,23%
+Villavicencio,Colombia,58,-,45,9.9,27%,24%,21%
+Malang,Indonesia,59,-,45,10.3,27%,24%,23%
+Yogyakarta,Indonesia,60,-,45,10.3,27%,26%,24%
+Padang,Indonesia,61,-,45,10.4,29%,26%,24%
+Rostov-na-Don,Russia,62,-,44,9.7,23%,22%,19%
+Tver,Russia,63,-,44,10.2,25%,22%,23%
+Chelyabinsk,Russia,64,-,44,10.5,25%,23%,24%
+Krasnoyarsk,Russia,65,-,44,9.3,24%,21%,19%
+Khasavyurt,Russia,68,-,44,11.2,26%,29%,28%
+Gaillimh,Ireland,70,-,44,8.3,26%,18%,17%
+Cheboksary,Russia,71,-,43,9.8,25%,22%,23%
+Rzhev,Russia,73,-,43,10,25%,25%,23%
+Makhachkala,Russia,74,-,43,9.9,25%,25%,23%
+Novorossiysk,Russia,75,-,42,9.6,25%,23%,22%
+Tomsk,Russia,77,-,42,9.4,24%,23%,20%
+Medan,Indonesia,78,-,42,9.1,25%,23%,20%
+Volgograd,Russia,79,-,42,9.5,24%,23%,21%
+Basel,Switzerland,80,-,41,6.7,25%,10%,13%
+Recife,Brazil,82,-,41,7.8,22%,15%,14%
+Surgut,Russia,84,-,41,8.8,24%,20%,20%
+Tyumen,Russia,86,-,40,8.9,23%,20%,19%
+Ryazan’,Russia,88,-,40,8.3,23%,18%,17%
+Kirov,Russia,90,-,40,8.7,24%,21%,19%
+Zelenograd,Russia,91,-,40,8.8,24%,19%,20%
+Pontianak,Indonesia,93,-,40,9.3,24%,23%,22%
+Cartagena,Spain,94,-,40,8.6,23%,15%,21%
+Rubtsovsk,Russia,95,-,40,8.9,23%,21%,20%
+Barranquilla,Colombia,96,-,40,8.1,22%,16%,17%
+Voronezh,Russia,98,-,39,8.3,23%,20%,18%
+Pereira,Colombia,99,-,39,7.7,21%,15%,16%
+Pushkino,Russia,100,-,39,8.3,24%,18%,19%
+Tarogong,Indonesia,102,-,39,8.9,24%,22%,20%
+Antwerp,Belgium,105,-,38,6.7,23%,14%,13%
+Orenburg,Russia,106,-,38,8.1,21%,18%,18%
+Heilbronn,Germany,107,-,38,7.6,22%,16%,14%
+Santa Cruz,USA,109,-,37,6.9,22%,12%,14%
+Tuapse,Russia,110,-,37,8.3,22%,19%,19%
+Surabaya,Indonesia,111,-,37,7.7,22%,18%,16%
+Lugano,Switzerland,112,-,37,5.9,21%,10%,11%
+Semarang,Indonesia,113,-,37,7.9,21%,19%,17%
+Bryansk,Russia,115,-,37,8.1,22%,20%,17%
+Lincoln,UK,118,-,36,7.1,22%,15%,15%
+Curitiba,Brazil,121,-,36,7.2,20%,17%,16%
+Kraków,Poland,122,-,36,6.6,20%,12%,13%
+San Rafael,USA,124,-,35,5.7,21%,9%,11%
+Klin,Russia,125,-,35,8.2,21%,19%,19%
+Würzburg,Germany,126,-,35,7.3,22%,20%,14%
+Esenyurt,Turkey,128,-,35,6.9,21%,15%,14%
+Sungai Pinang,Indonesia,129,-,35,8,22%,19%,18%
+Santa Barbara,USA,130,-,35,6.2,20%,10%,13%
+Warsaw,Poland,131,-,35,6.1,19%,9%,11%
+Kemerovo,Russia,132,-,35,7.7,20%,18%,17%
+Berezniki,Russia,133,-,35,8.2,20%,19%,20%
+Feira de Santana,Brazil,134,-,35,7.4,20%,19%,17%
+Maracaibo,Venezuela,135,-,35,7,20%,18%,15%
+St. John's,Canada,137,-,34,6.8,19%,7%,14%
+Perm,Russia,141,-,34,7.2,20%,17%,16%
+Norilsk,Russia,142,-,34,8.2,20%,20%,20%
+Maceió,Brazil,143,-,34,7.1,19%,15%,15%
+Omsk,Russia,144,-,33,7.2,19%,16%,16%
+Vyborg,Russia,146,-,33,7.7,20%,18%,18%
+Bengkulu,Indonesia,147,-,33,8.5,20%,16%,20%
+Luxembourg,Luxembourg,148,-,33,5,20%,6%,9%
+Natal,Brazil,149,-,33,6.1,19%,13%,12%
+Nashville,USA,150,-,33,5.7,19%,9%,11%
+Maastricht,Netherlands,151,-,33,6.6,20%,17%,13%
+Matamoros,Mexico,152,-,33,8.2,18%,19%,18%
+Yaroslavl,Russia,153,-,33,7.2,19%,16%,16%
+Barnaul,Russia,155,-,33,7.3,19%,19%,16%
+Braintree,UK,156,-,33,5.3,21%,8%,10%
+Aylesbury,UK,159,-,32,5.3,20%,8%,10%
+Pittsburgh,USA,160,-,32,5.4,19%,8%,10%
+Trujillo,Venezuela,162,-,32,6.5,18%,19%,14%
+Pforzheim,Germany,163,-,32,6.5,21%,18%,13%
+San Antonio de Los Altos,Venezuela,164,-,32,6.4,18%,18%,12%
+Maykop,Russia,167,-,31,7.4,18%,17%,18%
+Nizhny Tagil,Russia,168,-,31,7,18%,18%,16%
+Everett,USA,169,-,31,5.3,21%,7%,11%
+Reutlingen,Germany,170,-,31,5.9,19%,15%,12%
+Ottawa,Canada,171,-,31,5.4,18%,8%,11%
+Sindelfingen,Germany,173,-,31,5.1,19%,9%,10%
+Columbia,USA,176,-,31,5.3,18%,7%,10%
+Ussuriysk,Russia,177,-,31,6.9,18%,17%,16%
+Brasília,Brazil,179,-,31,5.7,16%,12%,11%
+Balneário Camboriú,Brazil,181,-,30,6.4,18%,16%,15%
+Amsterdam,Netherlands,182,-,30,5.4,18%,11%,10%
+Kurgan,Russia,183,-,30,7,18%,16%,16%
+Guanambi,Brazil,184,-,30,5.8,17%,7%,13%
+Saransk,Russia,185,-,30,7.2,18%,17%,17%
+Lucerne,Switzerland,186,-,30,5.1,18%,9%,10%
+Marseille,France,187,-,30,5.2,17%,9%,10%
+Penza,Russia,188,-,30,6.6,17%,14%,15%
+Lat Krabang,Thailand,189,-,30,6.1,19%,15%,13%
+Poznań,Poland,190,-,30,5.8,18%,12%,12%
+Novokuznetsk,Russia,191,-,30,6.9,18%,16%,16%
+Berdsk,Russia,192,-,30,6.7,18%,16%,16%
+Denpasar,Indonesia,193,-,30,6.8,20%,19%,15%
+Astrakhan,Russia,194,-,30,8.7,17%,18%,24%
+Volgodonsk,Russia,195,-,30,7.5,17%,16%,19%
+Kazan,Russia,196,-,30,6,16%,13%,12%
+Rybinsk,Russia,198,-,30,7.3,18%,16%,18%
+Novotroitsk,Russia,199,-,30,6.8,18%,19%,16%
+Salzburg,Austria,200,-,30,6.5,19%,15%,14%
+Bratislava,Slovakia,201,-,29,5.2,18%,10%,11%
+Tasikmalaya,Indonesia,202,-,29,6.8,18%,18%,16%
+Guildford,UK,204,-,29,4.6,18%,7%,9%
+Bordeaux,France,205,-,29,4.9,17%,8%,9%
+Lipetsk,Russia,206,-,29,6.3,16%,14%,13%
+Bath,UK,207,-,29,5.8,18%,13%,12%
+Aberdeen,UK,210,-,28,5.5,18%,10%,11%
+Santos,Brazil,211,-,28,6.2,16%,15%,15%
+Tula,Mexico,212,-,28,6.4,17%,17%,14%
+Ulyanovsk,Russia,214,-,28,6.5,16%,17%,14%
+Neiva,Colombia,215,-,28,6.4,18%,16%,15%
+Timashëvsk,Russia,216,-,28,6.4,17%,16%,16%
+Nantes,France,217,-,28,4.7,16%,7%,9%
+Chapecó,Brazil,218,-,28,6.8,16%,17%,16%
+Linz,Austria,222,-,28,5,18%,10%,10%
+Kaneohe,USA,223,-,28,5.5,16%,10%,11%
+Szczecin,Poland,224,-,28,5.9,17%,12%,12%
+Podolsk,Russia,225,-,28,5.8,17%,14%,14%
+Québec,Canada,227,-,28,4.8,16%,7%,9%
+Nakhodka,Russia,229,-,28,6.5,16%,15%,16%
+Bielefeld,Germany,230,-,28,5,17%,12%,10%
+Donetsk,Russia,232,-,28,6.8,16%,17%,17%
+Wrocław,Poland,233,-,27,5.1,16%,10%,10%
+Chernogorsk,Russia,235,-,27,6.6,16%,15%,16%
+Concord,USA,236,-,27,4.4,15%,6%,8%
+Juazeiro do Norte,Brazil,237,-,27,5.8,16%,14%,13%
+Garanhuns,Brazil,238,-,27,6.3,16%,18%,15%
+Mendrisio,Switzerland,239,-,27,5.1,16%,10%,11%
+Dimitrovgrad,Russia,240,-,27,6.4,16%,16%,15%
+Staryy Oskol,Russia,241,-,27,6.4,16%,15%,15%
+Dordrecht,Netherlands,242,-,27,4.6,16%,9%,9%
+Stavanger,Norway,244,-,27,4.3,16%,5%,8%
+Porto,Portugal,245,-,27,4.6,14%,6%,8%
+Santa Marta,Colombia,246,-,27,5.6,15%,12%,13%
+Gatchina,Russia,247,-,27,6.1,16%,14%,15%
+Cambridge,UK,248,-,27,4.5,17%,8%,9%
+Woodbridge,USA,249,-,27,5.6,16%,11%,12%
+Cúcuta,Colombia,250,-,27,5.8,16%,15%,13%
+Guanajuato,Mexico,251,-,27,5.6,16%,15%,12%
+São Luís,Brazil,255,-,27,5.3,15%,13%,12%
+Southend-on-Sea,UK,256,-,27,5.9,17%,13%,13%
+Krefeld,Germany,257,-,27,4.6,16%,8%,9%
+Framingham,USA,259,-,26,4.3,16%,6%,8%
+Valencia,Spain,260,-,26,6.4,16%,22%,14%
+Reading,UK,261,-,26,4.1,16%,5%,8%
+Durban,South Africa,263,-,26,4.7,15%,8%,9%
+Bursa,Turkey,264,-,26,5.6,15%,11%,11%
+Regensburg,Germany,265,-,26,4.8,16%,11%,10%
+Volzhskiy,Russia,266,-,26,6.4,15%,15%,15%
+Biysk,Russia,267,-,26,6.1,15%,16%,14%
+Grenoble,France,268,-,26,4.3,16%,7%,8%
+Teresópolis,Brazil,269,-,26,5.6,15%,15%,14%
+Gdańsk,Poland,270,-,26,5.1,15%,9%,10%
+Kidderminster,UK,271,-,26,4.9,16%,10%,10%
+Aracaju,Brazil,272,-,26,5.6,14%,14%,13%
+Tijuana,Mexico,273,-,26,6.6,14%,16%,14%
+İzmir,Turkey,274,-,26,4.8,15%,8%,9%
+Norwich,UK,276,-,26,5,16%,10%,11%
+Fairfield,USA,277,-,26,5,15%,10%,10%
+Darmstadt,Germany,278,-,26,4,15%,7%,8%
+Yoshkar-Ola,Russia,279,-,25,5.6,15%,14%,13%
+Graz,Austria,280,-,25,4.9,15%,11%,10%
+Joinville,Brazil,281,-,25,5.4,14%,14%,12%
+Toulouse,France,282,-,25,3.8,14%,4%,6%
+Balakovo,Russia,283,-,25,6.4,15%,15%,16%
+Debrecen,Hungary,284,-,25,4.9,15%,12%,10%
+Seville,Spain,285,-,25,5.9,16%,15%,14%
+Campinas,Brazil,286,-,25,4.7,14%,11%,10%
+Oktyabr’skiy,Russia,287,-,25,6,15%,15%,14%
+Manizales,Colombia,288,-,25,5.2,14%,11%,12%
+Haarlem,Netherlands,289,-,25,4.7,16%,10%,9%
+Cork,Ireland,291,-,25,4.4,15%,8%,9%
+North Charleston,USA,292,-,25,3.6,15%,3%,6%
+Monterey,USA,293,-,25,4.6,14%,8%,10%
+Yelets,Russia,294,-,25,6.2,15%,15%,15%
+Reynosa,Mexico,295,-,25,6.1,13%,14%,14%
+Nizhnekamsk,Russia,296,-,25,5.3,15%,11%,12%
+Royal Leamington Spa,UK,299,-,25,3.7,15%,5%,7%
+Basildon,UK,300,-,25,4.2,15%,8%,8%
+Lowell,USA,301,-,25,4.2,14%,6%,9%
+Chelmsford,UK,302,-,25,3.8,15%,6%,7%
+Chesterfield,UK,304,-,25,5.3,15%,11%,12%
+Hull,UK,306,-,24,4.3,15%,7%,9%
+Freiburg,Germany,307,-,24,4.7,15%,12%,10%
+Dana Point,USA,308,-,24,5.4,15%,12%,13%
+Dublin,USA,309,-,24,4.8,14%,10%,9%
+Łódź,Poland,310,-,24,4.7,13%,9%,9%
+Newport,UK,311,-,24,4.1,15%,6%,8%
+Annapolis,USA,312,-,24,4.1,14%,7%,8%
+Gelendzhik,Russia,313,-,24,5.8,14%,15%,14%
+Ibagué,Colombia,315,-,24,5.2,15%,14%,12%
+Exeter,UK,316,-,24,4.4,15%,10%,10%
+Escondido,USA,318,-,24,3.9,14%,6%,7%
+Kstovo,Russia,319,-,24,5.6,14%,13%,13%
+Telêmaco Borba,Brazil,321,-,24,5.1,14%,13%,11%
+Elista,Russia,324,-,24,6,14%,14%,15%
+Nogales,Mexico,325,-,24,5.8,12%,13%,13%
+Bellinzona,Switzerland,328,-,24,3.7,14%,9%,7%
+Bremen,Germany,330,-,24,4.6,15%,13%,9%
+Rotterdam,Netherlands,331,-,24,4.2,14%,8%,9%
+Novocheboksarsk,Russia,333,-,24,5.7,14%,14%,14%
+Strasbourg,France,334,-,24,4.2,15%,8%,8%
+Perugia,Italy,336,-,24,4.6,14%,10%,10%
+Kursk,Russia,337,-,24,5,14%,13%,11%
+Boulder,USA,338,-,24,4.9,13%,10%,10%
+Waterbury,USA,339,-,24,4.7,14%,8%,10%
+Nyon,Switzerland,340,-,23,3.7,14%,6%,7%
+Kamyshin,Russia,341,-,23,5.9,14%,15%,14%
+Ankara,Turkey,342,-,23,4.3,13%,7%,8%
+Itajaí,Brazil,343,-,23,4.7,14%,10%,11%
+Nizhnevartovsk,Russia,344,-,23,5.1,14%,12%,12%
+Cruzeiro do Oeste,Brazil,345,-,23,5.3,13%,16%,12%
+Cardiff,UK,347,-,23,4.3,14%,8%,10%
+Belgorod,Russia,348,-,23,5,14%,11%,11%
+Teresina,Brazil,349,-,23,5.2,13%,11%,11%
+Trowbridge,UK,352,-,23,4.1,14%,8%,8%
+Aachen,Germany,353,-,23,4.2,14%,10%,9%
+Palma,Spain,354,-,23,4.9,14%,11%,11%
+Naberezhnyye Chelny,Russia,355,-,23,5,13%,11%,11%
+Palmas,Brazil,356,-,23,5.5,14%,14%,13%
+Ipswich,UK,357,-,23,4,14%,7%,8%
+Charlotte,USA,358,-,23,3.8,13%,6%,7%
+Antalya,Turkey,360,-,23,4.7,13%,10%,10%
+Cuiabá,Brazil,361,-,23,4.7,13%,11%,10%
+Santiago de Querétaro,Mexico,363,-,23,4.9,13%,11%,10%
+Winchester,UK,364,-,23,3.8,14%,7%,8%
+Chiang Mai,Thailand,368,-,23,5.2,14%,13%,12%
+La Vega,Colombia,369,-,23,5.4,14%,15%,13%
+Paranaíba,Brazil,370,-,22,5.5,13%,14%,14%
+Dibba Al-Fujairah,United Arab Emirates,371,-,22,5.4,13%,11%,12%
+Saint Neots,UK,373,-,22,3.4,14%,4%,6%
+Kassel,Germany,374,-,22,4.3,13%,10%,9%
+Arnhem,Netherlands,376,-,22,4.2,13%,8%,9%
+Davis,USA,377,-,22,3.9,14%,7%,7%
+Catanduva,Brazil,378,-,22,4.8,13%,15%,11%
+Soria,Spain,379,-,22,5,14%,11%,13%
+Achinsk,Russia,381,-,22,5.5,13%,14%,13%
+São José dos Campos,Brazil,382,-,22,4.4,13%,11%,10%
+Las Rozas de Madrid,Spain,383,-,22,4.5,13%,8%,10%
+Danbury,USA,387,-,22,3.5,13%,5%,7%
+Lecco,Italy,388,-,22,4.2,13%,8%,9%
+Trapani,Italy,389,-,22,4.9,13%,11%,12%
+Kuwait City,Kuwait,390,-,22,4.8,12%,10%,10%
+Sergiyev Posad,Russia,391,-,22,4.9,13%,12%,12%
+New Haven,USA,392,-,22,4.1,13%,8%,9%
+Sakakah,Saudi Arabia,393,-,22,5.2,12%,9%,13%
+Arzamas,Russia,394,-,22,4.8,13%,12%,11%
+La Teste-de-Buch,France,395,-,22,4.9,13%,11%,10%
+Bogor,Indonesia,396,-,22,5.2,13%,12%,13%
+Lázaro Cárdenas,Mexico,397,-,22,4.4,12%,10%,10%
+Victoria,Canada,399,-,22,3.9,13%,7%,8%
+Roquebrune-Cap-Martin,France,400,-,22,4.4,13%,11%,10%
+Lavras,Brazil,402,-,22,4.6,12%,11%,11%
+Skien,Norway,403,-,22,3.8,13%,7%,7%
+Lübeck,Germany,404,-,21,4.4,12%,13%,9%
+Abha,Saudi Arabia,405,-,21,5.1,12%,9%,12%
+Lawrence,USA,406,-,21,3.6,12%,6%,7%
+Barnstaple,UK,408,-,21,4.1,13%,9%,9%
+Al Mubarraz,Saudi Arabia,409,-,21,5.3,12%,9%,13%
+Bend,USA,410,-,21,4.5,13%,12%,10%
+Arapiraca,Brazil,411,-,21,4.4,12%,12%,10%
+Novomoskovsk,Russia,412,-,21,4.9,13%,11%,12%
+Shrewsbury,UK,414,-,21,4.1,13%,10%,9%
+Nottingham,UK,415,-,21,3.5,12%,5%,7%
+Ljubljana,Slovenia,416,-,21,4.1,12%,8%,9%
+Mexicali,Mexico,418,-,21,5.3,12%,11%,12%
+Southport,UK,419,-,21,4.8,13%,11%,12%
+Leninskiy,Russia,420,-,21,4.9,12%,13%,11%
+Grimsby,UK,421,-,21,4.7,13%,11%,11%
+Innsbruck,Austria,422,-,21,4.5,14%,12%,10%
+Esch-sur-Alzette,Luxembourg,423,-,21,3,13%,4%,5%
+Chattanooga,USA,424,-,21,3.5,12%,5%,7%
+Sankt Gallen,Switzerland,425,-,21,3.1,12%,4%,6%
+Stevenage,UK,426,-,21,3.1,13%,3%,6%
+Wigan,UK,427,-,21,3.6,13%,6%,8%
+Nyíregyháza,Hungary,428,-,21,4.6,12%,11%,10%
+Dresden,Germany,429,-,21,3.8,12%,9%,8%
+Drammen,Norway,431,-,21,3.5,13%,6%,7%
+Bergen,Norway,432,-,21,3.5,12%,5%,6%
+Fernandópolis,Brazil,433,-,21,4.3,12%,12%,10%
+Salavat,Russia,435,-,21,4.6,12%,11%,11%
+Petrovsk,Russia,436,-,21,4.9,12%,14%,12%
+Semyonov,Russia,438,-,21,4.4,13%,12%,10%
+Chester,UK,440,-,20,3.6,13%,7%,8%
+Sterlitamak,Russia,441,-,20,4.8,12%,12%,11%
+Qurayyat,Saudi Arabia,442,-,20,5.1,11%,12%,12%
+Burton upon Trent,UK,443,-,20,4,13%,9%,9%
+Cuernavaca,Mexico,445,-,20,4.8,11%,11%,10%
+Lukhovitsy,Russia,446,-,20,4.4,12%,10%,10%
+Sligo,Ireland,447,-,20,4.2,13%,11%,9%
+Abakan,Russia,449,-,20,4.9,12%,12%,12%
+Amersfoort,Netherlands,451,-,20,3.6,13%,8%,7%
+Barinas,Venezuela,452,-,20,4.4,12%,12%,10%
+Manassas,USA,453,-,20,4.1,12%,8%,9%
+Konakovo,Russia,454,-,20,4.5,12%,12%,11%
+Farnborough,UK,455,-,20,3.2,12%,4%,7%
+Oceanside,USA,456,-,20,4.4,12%,9%,9%
+Iskitim,Russia,457,-,20,4.8,12%,12%,12%
+Neftekamsk,Russia,459,-,20,4.9,12%,12%,12%
+Eastbourne,UK,460,-,20,3.6,12%,7%,7%
+Maracay,Venezuela,461,-,20,3.7,13%,12%,8%
+Jundiaí,Brazil,462,-,20,4,11%,10%,9%
+Pietermaritzburg,South Africa,464,-,20,4,12%,9%,9%
+Northampton,UK,465,-,20,3.3,12%,5%,7%
+Fazenda Rio Grande,Brazil,466,-,20,4.4,11%,13%,10%
+Hagen,Germany,467,-,20,3.7,12%,10%,8%
+Paulo Afonso,Brazil,468,-,20,4.4,11%,10%,11%
+Hampton,USA,469,-,20,3.5,11%,5%,7%
+Razliv,Russia,470,-,20,4.6,11%,12%,11%
+Campo Grande,Brazil,471,-,20,4.4,11%,11%,10%
+Bedford,UK,472,-,19,3.4,12%,6%,7%
+Tampico,Mexico,473,-,19,4.6,11%,11%,10%
+Cheltenham,UK,474,-,19,3.4,12%,7%,7%
+Itabuna,Brazil,475,-,19,4.4,11%,11%,11%
+Aix-en-Provence,France,476,-,19,3,12%,4%,6%
+Portsmouth,UK,477,-,19,3.3,12%,5%,7%
+Wolfsburg,Germany,478,-,19,3.4,12%,7%,7%
+Chemnitz,Germany,479,-,19,3.9,12%,10%,9%
+Chilpancingo,Mexico,480,-,19,4.6,11%,12%,11%
+Yeysk,Russia,481,-,19,4.8,11%,12%,12%
+Lancaster,USA,482,-,19,3.6,11%,8%,7%
+Bento Gonçalves,Brazil,483,-,19,4,11%,9%,9%
+Colchester,UK,484,-,19,3.5,12%,7%,7%
+Jizan,Saudi Arabia,486,-,19,4.6,11%,10%,11%
+Berezovskiy,Russia,487,-,19,3.9,11%,8%,9%
+Tuxtla Gutierrez,Mexico,489,-,19,4.9,11%,14%,11%
+České Budějovice,Czech Republic,490,-,19,4.6,13%,12%,11%
+Wilmington,USA,491,-,19,3.4,11%,6%,7%
+Antioch,USA,492,-,19,3.8,11%,8%,8%
+Ciudad del Carmen,Mexico,493,-,19,4.8,11%,13%,11%
+Yanbu,Saudi Arabia,494,-,19,4.6,10%,8%,11%
+Charleston,USA,495,-,19,3.4,11%,5%,7%
+Kaiserslautern,Germany,496,-,19,3.8,11%,10%,8%
+Caguas,USA,497,-,19,3.6,11%,8%,8%
+Uruapan,Mexico,498,-,19,4.5,11%,13%,10%
+Gubkin,Russia,500,-,19,4.4,11%,10%,11%
+Morelia,Mexico,501,-,19,4.7,10%,13%,10%
+Farroupilha,Brazil,502,-,19,4.3,11%,12%,11%
+Erzurum,Turkey,503,-,19,4.8,11%,12%,12%
+Locarno,Switzerland,504,-,19,3.6,11%,9%,8%
+Santa Rosa,USA,505,-,18,3.2,11%,6%,7%
+Las Palmas de Gran Canaria,Spain,507,-,18,3.9,10%,10%,9%
+Groningen,Netherlands,508,-,18,3.6,12%,9%,8%
+Jönköping,Sweden,509,-,18,2.7,11%,4%,5%
+Milton Keynes,UK,510,-,18,3,11%,4%,6%
+Criciúma,Brazil,513,-,18,4.4,11%,11%,10%
+Guimarães,Portugal,515,-,18,3.3,11%,6%,7%
+Brunswick,Germany,518,-,18,3.5,11%,10%,7%
+Cuenca,Ecuador,520,-,18,3.8,12%,11%,10%
+Mococa,Brazil,521,-,18,4,10%,12%,9%
+Camaçari,Brazil,522,-,18,3.8,10%,11%,8%
+Porta Westfalica,Germany,523,-,18,3.7,11%,10%,8%
+Kushchëvskaya,Russia,524,-,18,4.3,11%,10%,11%
+Genoa,Italy,525,-,18,3.4,10%,7%,8%
+Eskişehir,Turkey,526,-,18,3.9,11%,8%,9%
+Diyarbakır,Turkey,527,-,18,4.2,11%,10%,10%
+Serpukhov,Russia,528,-,18,4.2,11%,10%,10%
+Ensenada,Mexico,531,-,18,4.9,10%,12%,12%
+Çorum,Turkey,532,-,18,4.3,10%,10%,11%
+Kayseri,Turkey,533,-,18,4.2,11%,10%,9%
+Zwickau,Germany,534,-,18,3.4,11%,10%,7%
+Kiel,Germany,535,-,18,3.2,11%,8%,6%
+Catanzaro,Italy,536,-,18,3.1,11%,6%,7%
+Villahermosa,Mexico,537,-,18,4.3,10%,11%,9%
+Derby,UK,538,-,17,2.8,10%,4%,6%
+Plymouth,UK,540,-,17,3.3,10%,6%,7%
+Worms,Germany,541,-,17,3.6,10%,9%,8%
+Schaffhausen,Switzerland,542,-,17,2.9,11%,6%,6%
+Thun,Switzerland,543,-,17,3,11%,6%,6%
+'s-Hertogenbosch,Netherlands,544,-,17,2.9,10%,5%,6%
+Fribourg,Switzerland,545,-,17,2.6,10%,5%,5%
+Riobamba,Ecuador,546,-,17,4.3,12%,12%,12%
+Silkeborg,Denmark,547,-,17,3.4,10%,7%,7%
+Nakhab,Saudi Arabia,548,-,17,4.2,10%,7%,10%
+Salt Lake City,USA,549,-,17,3,9%,5%,6%
+Mönchengladbach,Germany,550,-,17,3.5,10%,8%,8%
+Samsun,Turkey,551,-,17,3.8,11%,10%,9%
+Watsonville,USA,553,-,17,3,11%,5%,6%
+Fredericksburg,USA,554,-,17,3.5,10%,7%,8%
+Münster,Germany,555,-,17,3.4,10%,8%,8%
+Novo Hamburgo,Brazil,557,-,17,4.1,9%,10%,9%
+Xalapa de Enríquez,Mexico,558,-,17,4,10%,10%,9%
+West Chester,USA,559,-,17,3.4,10%,7%,7%
+Londonderry,UK,560,-,17,3.6,10%,8%,8%
+Brighton,UK,561,-,17,3.3,10%,6%,7%
+Dundee,UK,562,-,17,3.4,11%,7%,7%
+Khamis Mushait,Saudi Arabia,563,-,17,4,10%,7%,10%
+Lexington,USA,564,-,17,3,10%,6%,6%
+Liège,Belgium,565,-,17,2.7,10%,5%,5%
+Oxnard,USA,566,-,17,3.3,10%,6%,7%
+Ingolstadt,Germany,567,-,17,3.2,10%,7%,7%
+Kilkenny,Ireland,568,-,17,3.7,8%,9%,8%
+Brno,Czech Republic,570,-,17,3.7,11%,9%,8%
+Uberlândia,Brazil,571,-,17,4,10%,10%,10%
+Alicante,Spain,572,-,17,3.4,11%,7%,8%
+Broadstairs,UK,573,-,17,3.6,10%,8%,8%
+Panama City,USA,574,-,17,3.6,10%,8%,8%
+Katowice,Poland,575,-,17,2.9,10%,6%,6%
+East London,South Africa,576,-,17,3.3,10%,8%,7%
+Parnaíba,Brazil,577,-,17,3.8,10%,11%,9%
+Montpellier,France,578,-,17,3.1,10%,7%,6%
+Lowestoft,UK,579,-,16,3.7,10%,9%,8%
+Ibarra,Ecuador,580,-,16,4.1,12%,14%,11%
+Mafra,Brazil,583,-,16,3.1,9%,6%,7%
+Koblenz,Germany,584,-,16,2.7,10%,7%,5%
+Neuwied,Germany,585,-,16,3.1,9%,8%,7%
+Anaco,Venezuela,587,-,16,3.4,10%,9%,8%
+Campina Grande,Brazil,588,-,16,3.9,10%,11%,10%
+Nijmegen,Netherlands,589,-,16,3.3,10%,8%,7%
+Leipzig,Germany,590,-,16,2.8,8%,6%,6%
+Valenciennes,France,591,-,16,3.2,10%,6%,6%
+Rennes,France,592,-,16,2.8,10%,5%,6%
+Murcia,Spain,593,-,16,3.5,10%,8%,8%
+Atlantic City,USA,594,-,16,4.1,10%,9%,10%
+Adana,Turkey,595,-,16,3.4,9%,8%,7%
+Mataró,Spain,597,-,16,3.4,9%,7%,8%
+San Miguel,Mexico,598,-,16,4,9%,11%,9%
+Limerick,Ireland,599,-,16,3.3,9%,8%,8%
+Aalen,Germany,600,-,16,3,10%,8%,6%
+Niort,France,601,-,16,3,10%,7%,6%
+Unna,Germany,602,-,16,3,9%,7%,6%
+Cagliari,Italy,603,-,16,3.2,9%,7%,7%
+Jaboticabal,Brazil,604,-,16,3.5,9%,9%,8%
+San Martin Texmelucan de Labastida,Mexico,606,-,16,3.8,10%,9%,9%
+Arar,Saudi Arabia,607,-,15,3.6,9%,7%,9%
+Wexford,Ireland,608,-,15,2.7,9%,7%,6%
+Durham,UK,609,-,15,2.8,10%,6%,6%
+Tomelloso,Spain,610,-,15,4.3,10%,9%,12%
+Ghent,Belgium,611,-,15,2.6,9%,6%,6%
+San Juan del Río,Mexico,612,-,15,4,9%,10%,10%
+Como,Italy,613,-,15,3.4,9%,7%,8%
+Tilburg,Netherlands,615,-,15,3,9%,6%,6%
+Doncaster,UK,616,-,15,2.9,10%,6%,6%
+Port Elizabeth,South Africa,617,-,15,2.7,9%,6%,6%
+Catania,Italy,618,-,15,3.3,9%,7%,8%
+Alkmaar,Netherlands,619,-,15,3.3,10%,10%,7%
+Nîmes,France,620,-,15,3.2,10%,9%,7%
+Strathearn,USA,621,-,15,2.7,9%,5%,6%
+Sinop,Brazil,622,-,15,3.3,9%,10%,8%
+Tubarão,Brazil,623,-,15,2.9,10%,7%,6%
+Pécs,Hungary,624,-,15,3.4,9%,8%,8%
+Siena,Italy,625,-,15,2.9,9%,6%,6%
+Humacao,USA,626,-,15,3.6,9%,11%,8%
+Dumat Al-Jandal,Saudi Arabia,628,-,15,3.6,9%,8%,9%
+Tamworth,UK,629,-,15,2.5,9%,4%,5%
+Tikhoretsk,Russia,630,-,15,3.3,9%,8%,8%
+Mazatlán,Mexico,631,-,15,3.9,9%,9%,9%
+Novoaltaysk,Russia,632,-,15,3.4,9%,9%,8%
+Leon,Mexico,633,-,15,3.5,,,8%
+Vigo,Spain,634,-,15,3.9,10%,9%,10%
+Waterford,Ireland,635,-,15,3.3,9%,9%,8%
+Steyr,Austria,636,-,15,3.5,11%,10%,7%
+Rochester,UK,637,-,15,2.6,9%,4%,6%
+Bari,Italy,639,-,15,3.3,9%,7%,8%
+Turku,Finland,640,-,15,3.3,9%,8%,8%
+Khafji,Saudi Arabia,641,-,15,3.8,7%,7%,9%
+Aalborg,Denmark,642,-,15,2.9,11%,6%,7%
+Magdeburg,Germany,643,-,15,2.7,8%,5%,6%
+Salinas,USA,644,-,15,3,9%,7%,7%
+Hradec Králové,Czech Republic,645,-,15,3.7,10%,9%,8%
+Votuporanga,Brazil,646,-,15,3.1,9%,9%,7%
+Örebro,Sweden,647,-,15,2.5,8%,6%,5%
+Bloemfontein,South Africa,648,-,15,3.1,9%,7%,7%
+Greenville,USA,649,-,15,3.3,9%,8%,8%
+Rionegro,Colombia,650,-,15,3.1,8%,6%,7%
+Dieburg,Germany,651,-,15,2.8,9%,7%,6%
+Worcester,UK,652,-,15,2.7,9%,5%,6%
+Istres,France,653,-,15,2.4,9%,3%,5%
+Gijón,Spain,655,-,15,3.7,9%,9%,10%
+Ambato,Ecuador,656,-,15,3.5,11%,10%,9%
+Erechim,Brazil,657,-,15,2.9,9%,7%,7%
+Pavia,Italy,658,-,15,2.7,9%,5%,6%
+Hamilton,Canada,659,-,15,3,9%,5%,7%
+Århus,Denmark,660,-,15,3,9%,5%,7%
+Ferrol,Spain,661,-,15,3.8,9%,10%,10%
+Spokane,USA,662,-,15,2.6,8%,5%,5%
+McAllen,USA,663,-,15,2.7,9%,5%,6%
+Cascais,Portugal,664,-,15,2.9,9%,5%,6%
+Slavyansk-na-Kubani,Russia,665,-,15,3.4,9%,8%,8%
+Mansfield,UK,666,-,15,2.7,8%,5%,6%
+Passos,Brazil,667,-,15,3.3,9%,9%,8%
+Ellesmere Port,UK,671,-,14,2.6,9%,5%,6%
+Marburg an der Lahn,Germany,672,-,14,2.9,8%,8%,7%
+Augsburg,Germany,673,-,14,2.6,8%,6%,5%
+Formosa,Brazil,674,-,14,2.9,7%,8%,6%
+Ulm,Germany,675,-,14,2.5,8%,5%,5%
+Kanevskaya,Russia,676,-,14,3.3,9%,9%,8%
+Kolomna,Russia,677,-,14,3.2,8%,8%,8%
+Potsdam,Germany,678,-,14,2.5,9%,6%,5%
+Springfield,USA,679,-,14,2.7,8%,6%,5%
+Al Kharj,Saudi Arabia,680,-,14,3.6,9%,7%,8%
+Savannah,USA,681,-,14,3.1,7%,6%,7%
+Rouen,France,682,-,14,2.8,9%,6%,6%
+Araçatuba,Brazil,683,-,14,3.2,8%,7%,8%
+Folkestone,UK,685,-,14,3.2,9%,6%,8%
+Arezzo,Italy,686,-,14,3,8%,7%,7%
+Wrexham,UK,687,-,14,2.5,9%,4%,5%
+Villingen-Schwenningen,Germany,688,-,14,2.7,9%,7%,6%
+Portland,USA,689,-,14,2.5,8%,5%,5%
+Talavera de la Reina,Spain,690,-,14,3.3,9%,7%,9%
+Labinsk,Russia,691,-,14,4.1,8%,11%,11%
+Hermosillo,Mexico,692,-,14,3.3,8%,7%,7%
+Toms River,USA,693,-,14,2.8,9%,5%,6%
+Hammond,USA,694,-,14,2.7,9%,6%,5%
+Durango,Mexico,695,-,14,3.6,8%,9%,8%
+Vitrolles,France,697,-,14,2.1,8%,2%,4%
+Gary,USA,698,-,14,2.9,8%,7%,6%
+Göttingen,Germany,699,-,14,2.7,8%,7%,6%
+Fougères,France,700,-,14,2.7,9%,8%,6%
+Pardubice,Czech Republic,701,-,14,3.2,10%,9%,7%
+Kaspiysk,Russia,702,-,14,3.5,8%,9%,9%
+San Luis Potosí,Mexico,703,-,14,3.1,7%,6%,6%
+Rolândia,Brazil,704,-,14,2.7,8%,6%,6%
+Tampere,Finland,705,-,14,2.9,8%,7%,7%
+Chartres,France,706,-,14,2.7,9%,6%,5%
+Gloucester,UK,707,-,14,2.4,8%,4%,5%
+Córdoba,Spain,708,-,14,3.4,7%,7%,8%
+Frederick,USA,709,-,14,2.2,8%,3%,4%
+Yverdon-les-Bains,Switzerland,710,-,14,2.4,9%,6%,5%
+Worcester,USA,712,-,14,2.6,8%,5%,5%
+Caen,France,713,-,14,2.6,8%,5%,5%
+Ust’-Labinsk,Russia,714,-,14,3.3,8%,8%,8%
+Ponce,USA,715,-,14,3,8%,8%,7%
+New Port Richey,USA,716,-,14,3.2,8%,8%,7%
+Campo Mourão,Brazil,717,-,14,2.4,8%,4%,5%
+Brest,France,718,-,14,2.7,8%,7%,6%
+Lynchburg,USA,719,-,14,3,8%,7%,7%
+Waterloo,Canada,720,-,14,2.8,8%,6%,6%
+Albany,USA,721,-,14,2.3,7%,4%,4%
+A Coruña,Spain,722,-,13,3.4,8%,8%,9%
+Roskilde,Denmark,723,-,13,2.5,9%,4%,5%
+Pachuca de Soto,Mexico,724,-,13,3.3,8%,9%,7%
+Rambouillet,France,726,-,13,2.6,9%,3%,6%
+Valladolid,Spain,728,-,13,3,8%,8%,7%
+Lins,Brazil,729,-,13,2.9,8%,10%,7%
+Rohnert Park,USA,730,-,13,2.7,8%,7%,6%
+Segovia,Spain,731,-,13,3,9%,7%,8%
+Gasteiz / Vitoria,Spain,732,-,13,3.1,8%,9%,8%
+Helmond,Netherlands,733,-,13,3,8%,8%,7%
+Reading,USA,734,-,13,2.8,8%,7%,6%
+Surprise,USA,735,-,13,3.1,8%,8%,7%
+Gaziantep,Turkey,736,-,13,3,8%,7%,7%
+Freehold,USA,737,-,13,2.9,8%,6%,7%
+Vallejo,USA,738,-,13,2.6,8%,5%,6%
+Creil,France,739,-,13,2.4,8%,5%,5%
+Myrtle Beach,USA,740,-,13,3.1,8%,7%,7%
+Székesfehérvár,Hungary,741,-,13,2.5,8%,7%,5%
+Harrisburg,USA,742,-,13,2.2,8%,4%,4%
+Namur,Belgium,743,-,13,2,8%,4%,4%
+Neuchâtel,Switzerland,744,-,13,2.4,8%,5%,6%
+Hildesheim,Germany,745,-,13,2.7,8%,8%,6%
+Maribor,Slovenia,746,-,13,2.8,8%,6%,7%
+Blanes,Spain,748,-,13,3.1,7%,6%,7%
+Middlesbrough,UK,749,-,13,2.2,8%,3%,5%
+Manta,Ecuador,750,-,13,3,9%,9%,8%
+Jales,Brazil,751,-,13,2.9,7%,9%,7%
+Redditch,UK,752,-,13,2.2,8%,4%,4%
+Ciudad Obregón,Mexico,754,-,13,3.3,8%,8%,7%
+Tabuk,Saudi Arabia,755,-,13,3.2,7%,6%,8%
+Almetyevsk,Russia,756,-,13,3,8%,7%,7%
+Mulhouse,France,757,-,13,2.3,8%,5%,5%
+Crawley,UK,758,-,13,2.2,8%,4%,5%
+Ourense,Spain,759,-,13,2.9,8%,7%,7%
+San José del Cabo,Mexico,760,-,13,3.1,7%,10%,7%
+Vacaville,USA,761,-,13,2.9,7%,7%,7%
+Alès,France,762,-,13,2.6,8%,8%,6%
+Sankt Pölten,Austria,763,-,13,2.4,8%,7%,5%
+Ocean Township,USA,764,-,13,2.8,7%,5%,7%
+Plzeň,Czech Republic,765,-,13,3.1,9%,8%,7%
+Joliet,USA,766,-,13,2.4,8%,6%,5%
+Halifax,Canada,767,-,13,2.7,7%,4%,6%
+Olbia,Italy,768,-,13,2.9,7%,7%,7%
+Stupino,Russia,769,-,13,3,8%,8%,7%
+Cabo San Lucas,Mexico,770,-,13,3,7%,9%,7%
+Reno,USA,771,-,13,2.2,7%,4%,4%
+Chihuahua,Mexico,772,-,12,3.2,7%,7%,7%
+Saint-Malo,France,773,-,12,2.8,7%,6%,6%
+Manzanillo,Mexico,774,-,12,3.1,7%,9%,7%
+Lecce,Italy,775,-,12,2.6,7%,6%,6%
+Konya,Turkey,776,-,12,2.8,7%,5%,6%
+Boise,USA,777,-,12,2.4,7%,5%,5%
+Athens,USA,778,-,12,2.7,7%,6%,6%
+King of Prussia,USA,779,-,12,2.1,7%,4%,4%
+Liberec,Czech Republic,780,-,12,3.1,9%,8%,8%
+Avilés,Spain,781,-,12,2.8,8%,7%,7%
+Klagenfurt am Wörthersee,Austria,782,-,12,2.7,8%,7%,6%
+Bishops Stortford,UK,783,-,12,2,8%,4%,4%
+Saarlouis,Germany,784,-,12,2.2,7%,6%,5%
+Wiener Neustadt,Austria,785,-,12,2.4,7%,6%,5%
+Schweinfurt,Germany,786,-,12,2.4,7%,6%,5%
+Valence,France,787,-,12,2.6,8%,4%,6%
+Al Ain,United Arab Emirates,788,-,12,3,7%,6%,7%
+Greeley,USA,789,-,12,2.7,7%,7%,6%
+Inverness,UK,790,-,12,2.5,8%,5%,6%
+Elazığ,Turkey,791,-,12,3.3,7%,8%,8%
+Matera,Italy,792,-,12,2.7,8%,7%,7%
+Derby,USA,793,-,12,2.3,7%,4%,5%
+Gainesville,USA,794,-,12,2.5,7%,6%,5%
+Anglet,France,795,-,12,2.1,7%,5%,5%
+Armavir,Russia,796,-,12,3.4,7%,10%,8%
+Colima,Mexico,797,-,12,2.9,7%,7%,7%
+New Braunfels,USA,798,-,12,2.4,7%,6%,6%
+North Chicago,USA,799,-,12,2,7%,3%,4%
+Bathgate,UK,800,-,12,1.9,7%,2%,3%
+Siegen,Germany,801,-,12,2.7,7%,6%,7%
+Lafayette,USA,802,-,12,2.5,7%,6%,6%
+Blackpool,UK,803,-,12,2.5,7%,5%,6%
+Orizaba,Mexico,804,-,12,3.1,7%,10%,7%
+Salerno,Italy,805,-,12,2.7,7%,7%,7%
+Tulancingo,Mexico,806,-,12,3,7%,7%,8%
+Padova,Italy,807,-,12,2,7%,3%,4%
+Olympia,USA,808,-,12,2.5,7%,5%,5%
+Lorient,France,809,-,12,2,8%,4%,4%
+Burnley,UK,810,-,12,2.5,7%,6%,5%
+Missoula,USA,811,-,12,2.5,7%,7%,5%
+Brownsville,USA,812,-,12,2.7,7%,6%,7%
+Salem,USA,813,-,12,2.3,7%,5%,5%
+Melun,France,814,-,12,2.2,7%,4%,5%
+Saint-Brieuc,France,815,-,12,2.4,7%,6%,5%
+Biella,Italy,817,-,12,2.5,7%,7%,6%
+Al Muzahimiyah,Saudi Arabia,818,-,12,2.7,7%,5%,6%
+Nashua,USA,819,-,12,2.2,7%,5%,5%
+Stockton,USA,820,-,12,2.2,7%,4%,5%
+Bayreuth,Germany,821,-,12,2.4,7%,7%,6%
+Al Jubayl,Saudi Arabia,822,-,12,2.9,8%,6%,7%
+Paderborn,Germany,823,-,12,2.3,7%,6%,5%
+Pisa,Italy,824,-,12,2.5,7%,7%,6%
+L'Aquila,Italy,825,-,12,2.6,7%,8%,6%
+Santa Cruz de Tenerife,Spain,827,-,12,2.4,6%,5%,5%
+Lençóis Paulista,Brazil,828,-,12,2.7,7%,6%,7%
+Santander,Spain,829,-,12,2.8,7%,7%,7%
+Grand Rapids,USA,830,-,12,2,7%,3%,4%
+La Roche-sur-Yon,France,831,-,12,2.2,7%,5%,4%
+Kolding,Denmark,832,-,12,2.4,8%,5%,6%
+Rimini,Italy,833,-,12,2.4,7%,5%,6%
+Knoxville,USA,834,-,12,2.1,7%,4%,4%
+Mantes-la-Ville,France,836,-,12,2.4,7%,5%,6%
+Regina,Canada,837,-,12,2.5,7%,5%,6%
+Kortrijk,Belgium,838,-,11,2.4,7%,6%,5%
+Pentir,UK,839,-,11,2.3,7%,5%,5%
+Szombathely,Hungary,840,-,11,2.5,8%,7%,6%
+Jacona,Mexico,841,-,11,2.8,7%,7%,7%
+Dover,USA,842,-,11,2.6,7%,7%,6%
+Carson City,USA,843,-,11,2.5,7%,7%,6%
+Bergkamen,Germany,844,-,11,2.4,7%,6%,5%
+Ciudad Victoria,Mexico,845,-,11,3.1,7%,8%,7%
+Huauchinango,Mexico,846,-,11,3.1,7%,8%,8%
+Saskatoon,Canada,847,-,11,2.4,6%,4%,5%
+Denton,USA,848,-,11,2.4,7%,6%,6%
+Odense,Denmark,849,-,11,2.4,7%,5%,6%
+Provo,USA,850,-,11,2.6,7%,7%,6%
+Blackburn,UK,851,-,11,2.2,7%,4%,5%
+Tehuacán,Mexico,852,-,11,2.9,6%,7%,7%
+Bergamo,Italy,854,-,11,2,6%,4%,4%
+Benevento,Italy,855,-,11,2,7%,4%,4%
+Mogi Mirim,Brazil,856,-,11,2.5,6%,7%,6%
+Vannes,France,857,-,11,2,7%,5%,4%
+Villach,Austria,858,-,11,2.6,7%,7%,6%
+Leeuwarden,Netherlands,859,-,11,2.4,7%,7%,6%
+Lugo,Spain,860,-,11,2.5,7%,5%,7%
+Santiago de Compostela,Spain,861,-,11,2.7,7%,7%,7%
+Taquara,Brazil,862,-,11,2.5,6%,8%,5%
+Badajoz,Spain,863,-,11,2.7,7%,6%,7%
+Omaha,USA,864,-,11,2.1,6%,3%,4%
+Itaúna,Brazil,865,-,11,2.8,6%,7%,7%
+Bakersfield,USA,866,-,11,2.1,6%,5%,4%
+Bebedouro,Brazil,867,-,11,2.8,7%,8%,7%
+Mobile,USA,869,-,11,2.2,6%,5%,5%
+Huntsville,USA,870,-,11,2.2,6%,4%,5%
+Olomouc,Czech Republic,871,-,11,2.6,7%,6%,6%
+Winter Haven,USA,872,-,11,2.4,6%,6%,5%
+Brick,USA,873,-,11,2.3,7%,4%,5%
+Lucca,Italy,874,-,11,2.1,7%,5%,5%
+Anápolis,Brazil,875,-,11,2.5,6%,6%,6%
+Plasencia,Spain,876,-,11,2.9,7%,5%,8%
+Buraydah,Saudi Arabia,877,-,11,2.6,7%,6%,6%
+Merida,Mexico,878,-,11,2.7,6%,6%,6%
+Ogden,USA,879,-,11,2.1,6%,5%,4%
+Campobasso,Italy,880,-,11,2.4,7%,6%,6%
+Saint-Étienne,France,881,-,11,1.9,7%,3%,4%
+Annecy,France,882,-,11,2,7%,4%,4%
+Yegor’yevsk,Russia,883,-,11,2.5,6%,6%,6%
+Fitchburg,USA,885,-,11,2.2,6%,5%,5%
+Herford,Germany,886,-,11,2.2,7%,7%,5%
+Portsmouth,USA,887,-,11,2.2,6%,4%,5%
+Etimesgut,Turkey,888,-,11,2.1,6%,3%,5%
+Charlottesville,USA,889,-,11,2.1,6%,4%,5%
+Windsor,Canada,890,-,11,2.2,6%,5%,5%
+Calais,France,892,-,11,2.4,6%,6%,6%
+Offenburg,Germany,893,-,11,2,6%,5%,4%
+Tepic,Mexico,894,-,11,2.6,7%,7%,6%
+Monthey,Switzerland,895,-,11,1.7,6%,3%,3%
+Thuwal,Saudi Arabia,896,-,11,2.3,6%,5%,6%
+Malmö,Sweden,897,-,11,1.9,6%,4%,4%
+Alcalá de Henares,Spain,898,-,11,2.2,7%,5%,5%
+Shakhty,Russia,899,-,11,2.6,6%,7%,6%
+Basingstoke,UK,900,-,11,1.8,6%,3%,4%
+Dreux,France,901,-,11,2,7%,4%,4%
+Geilenkirchen,Germany,902,-,10,2.3,6%,7%,5%
+Ocala,USA,903,-,10,2.2,6%,5%,5%
+Gainesville,USA,905,-,10,2.3,6%,5%,5%
+Elche,Spain,907,-,10,2.2,7%,5%,6%
+Culiacán,Mexico,908,-,10,2.4,6%,7%,5%
+Porto União,Brazil,909,-,10,2.4,7%,6%,6%
+Aubagne,France,910,-,10,1.7,6%,3%,4%
+Wellingborough,UK,911,-,10,1.9,6%,3%,4%
+Atco,USA,912,-,10,2.3,6%,5%,6%
+Plant City,USA,913,-,10,1.9,6%,4%,4%
+Delano,USA,914,-,10,2,6%,4%,4%
+Niagara Falls,USA,915,-,10,2.5,6%,5%,6%
+Pau,France,916,-,10,1.8,6%,3%,4%
+Husum,Germany,917,-,10,2.3,6%,8%,5%
+Scranton,USA,918,-,10,1.9,6%,4%,4%
+La Rochelle,France,919,-,10,2,6%,5%,4%
+Lajeado,Brazil,920,-,10,2,6%,5%,4%
+Darlington,UK,921,-,10,1.9,6%,4%,4%
+Orleans,France,922,-,10,2.2,6%,4%,5%
+Tepeji del Río de Ocampo,Mexico,923,-,10,2.7,6%,6%,7%
+Fulda,Germany,924,-,10,2.1,6%,5%,5%
+Tuscaloosa,USA,925,-,10,2.1,6%,6%,4%
+Greenville,USA,926,-,10,2,6%,4%,4%
+Ciudad Real,Spain,927,-,10,2.8,6%,5%,8%
+Ivaipora,Brazil,928,-,10,2.7,6%,9%,7%
+Roanoke,USA,929,-,10,2,6%,4%,4%
+Silao,Mexico,930,-,10,2.3,6%,7%,5%
+Nuevo Laredo,Mexico,931,-,10,2.3,6%,5%,5%
+Carpentras,France,932,-,10,2.2,6%,6%,5%
+Toledo,USA,933,-,10,2,5%,4%,4%
+Szeged,Hungary,936,-,10,1.9,6%,5%,4%
+Bergheim,Germany,938,-,10,2,6%,5%,4%
+Sakarya,Turkey,939,-,10,2.2,6%,5%,5%
+Bourges,France,940,-,10,2,6%,5%,4%
+Fréjus,France,941,-,10,2.2,6%,6%,5%
+Zamora,Spain,942,-,10,2.5,6%,6%,7%
+Haugesund,Norway,943,-,10,2,6%,5%,4%
+Celaya,Mexico,944,-,10,2.3,6%,5%,6%
+Lubbock,USA,945,-,10,2.2,6%,5%,5%
+Dijon,France,946,-,10,1.8,6%,4%,4%
+Pensacola,USA,947,-,10,2,5%,4%,4%
+Sitten,Switzerland,948,-,10,1.7,6%,3%,3%
+Dinskaya,Russia,949,-,10,2.1,6%,5%,5%
+Al Bukayrīyah,Saudi Arabia,950,-,10,2.3,6%,5%,6%
+Rugby,UK,951,-,10,1.9,5%,3%,4%
+Durham,USA,952,-,10,1.7,6%,3%,4%
+Vichy,France,953,-,10,2.2,6%,6%,5%
+Verona,Italy,954,-,10,1.8,6%,3%,4%
+Agrigento,Italy,955,-,10,2.1,6%,5%,5%
+Beaumont,USA,956,-,10,1.9,6%,4%,4%
+Orlândia,Brazil,958,-,10,1.9,6%,4%,5%
+Miskolc,Hungary,959,-,10,1.7,6%,5%,4%
+Horsens,Denmark,960,-,10,2,6%,5%,5%
+Ashford,UK,961,-,10,1.6,6%,3%,4%
+Frauenfeld,Switzerland,962,-,10,1.7,6%,3%,4%
+Toledo,Spain,963,-,10,2.2,6%,5%,5%
+Romans-sur-Isère,France,964,-,10,1.8,6%,4%,4%
+Le Havre,France,965,-,10,2,6%,4%,4%
+Torrelavega,Spain,966,-,10,2.2,6%,6%,5%
+Salon-de-Provence,France,967,-,10,1.8,6%,4%,4%
+Montgomery,USA,968,-,10,1.8,5%,4%,4%
+Muret,France,969,-,10,1.6,6%,3%,3%
+Épernay,France,970,-,10,2,6%,5%,4%
+Pordenone,Italy,971,-,10,1.7,6%,3%,4%
+Clermont-Ferrand,France,972,-,10,1.7,6%,4%,4%
+Torreón,Mexico,973,-,10,2.2,5%,5%,5%
+Győr,Hungary,974,-,10,1.8,6%,5%,4%
+Andrézieux-Bouthéon,France,975,-,10,1.7,6%,4%,4%
+Al Badai,Saudi Arabia,976,-,10,2.4,5%,4%,6%
+Akron,USA,978,-,9,1.9,5%,4%,4%
+Neunkirchen,Austria,979,-,9,1.7,6%,5%,4%
+Bruges,Belgium,980,-,9,1.7,6%,4%,4%
+Madison,USA,981,-,9,1.6,5%,2%,3%
+Tallahassee,USA,982,-,9,1.9,5%,4%,4%
+Schenectady,USA,983,-,9,1.8,6%,4%,4%
+Margny-lès-Compiègne,France,984,-,9,1.7,6%,3%,3%
+Cuautla,Mexico,986,-,9,2.4,5%,6%,6%
+Rochester,USA,987,-,9,1.8,5%,4%,4%
+Saint John,Canada,988,-,9,2.4,6%,6%,6%
+Lons-le-Saunier,France,989,-,9,2,6%,5%,4%
+Auburn,USA,990,-,9,2.1,6%,6%,5%
+Coleraine,UK,991,-,9,2.1,6%,5%,5%
+Amiens,France,992,-,9,1.9,6%,5%,4%
+Lufkin,USA,993,-,9,1.9,6%,5%,4%
+Pontevedra,Spain,994,-,9,2.3,6%,5%,6%
+Delmar,USA,995,-,9,2.1,6%,5%,5%
+Fort Smith,USA,996,-,9,2,5%,5%,4%
+Saint-Avold,France,997,-,9,2.1,6%,6%,5%
+Hamar,Norway,998,-,9,1.8,6%,4%,4%
+Welkom,South Africa,999,-,9,2.2,6%,5%,5%
+Kettering,UK,1000,-,9,1.8,6%,4%,4%
+Latacunga,Ecuador,1001,-,9,2.3,7%,7%,6%
+Heerlen,Netherlands,1002,-,9,1.8,6%,4%,4%
+Bolzano,Italy,1003,-,9,1.9,6%,5%,4%
+Speyer,Germany,1004,-,9,1.8,5%,4%,3%
+Lancaster,USA,1005,-,9,2,5%,5%,5%
+Caltanissetta,Italy,1006,-,9,2,6%,5%,5%
+Alba,Italy,1007,-,9,1.6,5%,3%,3%
+Elgin,USA,1008,-,9,1.8,6%,4%,4%
+Irapuato,Mexico,1009,-,9,2,5%,5%,5%
+Brescia,Italy,1010,-,9,1.9,5%,3%,5%
+Easton,USA,1011,-,9,2,5%,6%,4%
+Jackson,USA,1012,-,9,1.7,5%,3%,4%
+Asomada de los Eres,Spain,1013,-,9,1.8,5%,5%,4%
+Sassari,Italy,1014,-,9,1.9,5%,5%,5%
+Deganwy,UK,1015,-,9,2,6%,5%,5%
+Reggio nell'Emilia,Italy,1016,-,9,1.7,5%,4%,4%
+Moncton,Canada,1017,-,9,1.9,6%,5%,4%
+Pottstown,USA,1018,-,9,2.2,5%,5%,5%
+Flint,USA,1019,-,9,2,5%,5%,5%
+Perpignan,France,1020,-,9,2,5%,6%,4%
+Modena,Italy,1021,-,9,1.5,5%,2%,3%
+Mons,Belgium,1022,-,9,1.6,5%,4%,3%
+Erie,USA,1023,-,9,1.8,5%,4%,4%
+Saint-Nazaire,France,1024,-,9,1.8,6%,5%,4%
+Pontedera,Italy,1025,-,9,1.8,5%,4%,4%
+Taquaritinga,Brazil,1026,-,9,2.1,6%,4%,5%
+Nancy,France,1027,-,9,1.6,5%,3%,3%
+Arendal,Norway,1028,-,9,1.6,5%,3%,4%
+Pescara,Italy,1029,-,9,1.9,5%,4%,4%
+Williamsport,USA,1030,-,9,2,5%,5%,5%
+Poitiers,France,1031,-,9,1.7,5%,3%,4%
+Ravenna,Italy,1032,-,9,1.8,5%,3%,4%
+Daytona Beach,USA,1033,-,9,2.2,5%,5%,5%
+Randers,Denmark,1034,-,9,1.9,6%,5%,5%
+Little Rock,USA,1036,-,9,1.6,5%,3%,3%
+Syracuse,USA,1038,-,9,1.8,5%,4%,4%
+Limoges,France,1039,-,9,1.8,5%,5%,4%
+Campeche,Mexico,1040,-,9,2.2,5%,5%,5%
+Fargo,USA,1041,-,9,1.8,5%,4%,4%
+Blois,France,1042,-,9,1.4,5%,3%,3%
+Flensburg,Germany,1043,-,9,1.9,5%,5%,5%
+Mersin,Turkey,1044,-,9,2,5%,4%,5%
+Matão,Brazil,1045,-,9,2.1,5%,6%,5%
+Vejle,Denmark,1046,-,9,1.8,6%,4%,4%
+Rochester,USA,1047,-,9,1.8,5%,4%,4%
+Batatais,Brazil,1048,-,9,1.9,5%,5%,5%
+Fresno,USA,1049,-,9,1.8,5%,4%,4%
+Thonon-les-Bains,France,1050,-,9,1.8,5%,4%,4%
+Gera,Germany,1051,-,9,1.5,5%,4%,3%
+Hagerstown,USA,1052,-,9,2,5%,5%,5%
+Gresham,USA,1053,-,9,1.9,5%,5%,4%
+Fort Wayne,USA,1054,-,9,1.7,5%,4%,4%
+Vilanova i la Geltrú,Spain,1055,-,9,2,5%,4%,5%
+Waco,USA,1056,-,8,1.9,5%,4%,4%
+Blendecques,France,1057,-,8,1.6,5%,4%,3%
+Aurillac,France,1058,-,8,1.9,5%,6%,4%
+Lansing,USA,1059,-,8,1.7,5%,3%,4%
+Bozeman,USA,1060,-,8,1.8,5%,5%,4%
+Beauvais,France,1061,-,8,1.6,5%,4%,3%
+Billings,USA,1062,-,8,1.8,5%,5%,4%
+Des Moines,USA,1063,-,8,1.6,5%,3%,4%
+Córdoba,Mexico,1064,-,8,2.1,,,5%
+Eugene,USA,1065,-,8,1.5,5%,3%,3%
+Odessa,USA,1066,-,8,1.8,5%,4%,4%
+Thionville,France,1067,-,8,1.4,6%,3%,3%
+Bridgend,UK,1068,-,8,1.6,5%,4%,4%
+Albi,France,1069,-,8,1.6,5%,4%,4%
+Butte,USA,1070,-,8,2.1,5%,5%,5%
+Dunfermline,UK,1071,-,8,1.5,5%,3%,3%
+Verviers,Belgium,1073,-,8,1.5,5%,4%,3%
+Daventry,UK,1075,-,8,1.6,5%,4%,3%
+New London,USA,1076,-,8,1.8,5%,5%,4%
+Ústí nad Labem,Czech Republic,1077,-,8,2,5%,5%,5%
+Parma,Italy,1079,-,8,1.8,5%,3%,4%
+Conroe,USA,1080,-,8,1.6,5%,4%,3%
+Sahagún,Mexico,1081,-,8,2,5%,6%,5%
+Buford,USA,1082,-,8,1.9,5%,6%,5%
+Birigui,Brazil,1083,-,8,1.6,5%,4%,4%
+Troy,USA,1084,-,8,1.9,5%,6%,4%
+León,Spain,1085,-,8,2.1,5%,5%,6%
+Al Majma‘ah,Saudi Arabia,1086,-,8,1.8,5%,4%,4%
+Rieti,Italy,1087,-,8,1.9,5%,4%,5%
+San Angelo,USA,1088,-,8,1.8,5%,5%,4%
+Crégy-lès-Meaux,France,1089,-,8,1.8,5%,4%,4%
+Soissons,France,1090,-,8,1.6,5%,4%,3%
+Wels,Austria,1091,-,8,1.8,5%,5%,4%
+Red Deer,Canada,1092,-,8,2,5%,5%,5%
+Korenovsk,Russia,1093,-,8,1.9,5%,4%,5%
+Petersburg,USA,1094,-,8,1.6,5%,4%,4%
+Meriden,USA,1095,-,8,1.9,5%,4%,5%
+Naples,USA,1096,-,8,1.8,5%,4%,5%
+Karlovy Vary,Czech Republic,1097,-,8,2,6%,6%,5%
+Trieste,Italy,1098,-,8,2,5%,5%,5%
+Bountiful,USA,1099,-,8,1.7,5%,4%,4%
+Peekskill,USA,1100,-,8,1.6,5%,4%,4%
+New Bedford,USA,1101,-,8,1.7,5%,4%,4%
+Louvroil,France,1102,-,8,1.7,5%,5%,4%
+Patchogue,USA,1103,-,8,1.5,5%,3%,3%
+Trento,Italy,1104,-,8,1.7,5%,4%,4%
+Lodi,USA,1105,-,8,1.7,5%,5%,4%
+Interlaken,Switzerland,1106,-,8,1.9,5%,5%,5%
+Dunkirk,France,1108,-,8,1.6,5%,4%,4%
+Ixtapa-Zihuatanejo,Mexico,1109,-,8,2,4%,5%,5%
+College Station,USA,1110,-,8,1.7,4%,4%,4%
+Capbreton,France,1111,-,8,1.8,5%,5%,4%
+Newry,UK,1112,-,8,1.5,5%,4%,4%
+Chambéry,France,1113,-,8,1.5,5%,3%,3%
+Williamsburg,USA,1114,-,8,1.8,4%,4%,4%
+Évora,Portugal,1115,-,8,1.6,4%,4%,4%
+Amarillo,USA,1116,-,8,1.6,4%,4%,3%
+Thiene,Italy,1117,-,8,1.5,4%,3%,3%
+Épinal,France,1118,-,8,1.4,5%,3%,3%
+Manresa,Spain,1119,-,8,1.6,5%,4%,4%
+Arrecife,Spain,1120,-,8,1.9,5%,5%,5%
+Colmar,France,1121,-,8,1.6,5%,4%,3%
+Columbus,USA,1122,-,8,1.6,4%,3%,4%
+Aosta,Italy,1123,-,8,1.7,5%,5%,4%
+Guadalupe,Mexico,1124,-,8,1.9,4%,5%,5%
+Cedar Rapids,USA,1125,-,8,1.6,4%,4%,4%
+Besançon,France,1126,-,8,1.3,5%,3%,3%
+Pontivy,France,1127,-,8,1.7,5%,6%,4%
+Farmington,USA,1128,-,7,1.7,4%,4%,4%
+Augusta,USA,1129,-,7,1.6,4%,3%,3%
+Telde,Spain,1130,-,7,1.4,4%,4%,3%
+Carlow,Ireland,1131,-,7,1.6,4%,5%,4%
+Saint John,Canada,1132,-,7,1.6,5%,5%,4%
+Pueblo,USA,1133,-,7,1.6,5%,4%,4%
+Peterborough,UK,1134,-,7,1.3,4%,3%,3%
+Lincoln,USA,1135,-,7,1.5,4%,3%,3%
+Noyelles-sous-Lens,France,1137,-,7,1.4,5%,3%,3%
+Macon,USA,1138,-,7,1.5,4%,3%,3%
+Santa Fe,USA,1139,-,7,1.6,4%,4%,4%
+Girona,Spain,1140,-,7,1.5,5%,4%,4%
+Bolu,Turkey,1141,-,7,1.8,4%,4%,4%
+Kilmarnock,UK,1142,-,7,1.6,5%,3%,4%
+Martigues,France,1143,-,7,1.4,5%,3%,3%
+Rovereto,Italy,1144,-,7,1.7,5%,4%,4%
+Piacenza,Italy,1146,-,7,1.4,4%,2%,3%
+Middelburg,Netherlands,1147,-,7,1.8,4%,4%,4%
+Las Cruces,USA,1148,-,7,1.5,4%,4%,3%
+Realejo Alto,Spain,1149,-,7,2.1,5%,4%,6%
+Boulogne-sur-Mer,France,1150,-,7,1.6,4%,5%,4%
+Stuart,USA,1151,-,7,1.5,4%,4%,4%
+Villefranche-sur-Saône,France,1152,-,7,1.4,4%,4%,3%
+Sandefjord,Norway,1153,-,7,1.4,4%,3%,3%
+Rocky Mount,USA,1154,-,7,1.6,4%,5%,4%
+Ostrava,Czech Republic,1155,-,7,1.8,5%,4%,4%
+Amstetten,Austria,1156,-,7,1.6,4%,4%,4%
+Lannion,France,1157,-,7,1.5,4%,4%,4%
+Aix-les-Bains,France,1158,-,7,1.2,4%,2%,3%
+Holbæk,Denmark,1159,-,7,1.8,5%,5%,5%
+Saint-Lô,France,1160,-,7,1.4,4%,4%,3%
+Egg Harbor City,USA,1161,-,7,1.9,4%,4%,5%
+Saint George,USA,1162,-,7,1.6,4%,4%,4%
+Araranguá,Brazil,1163,-,7,1.6,4%,5%,4%
+Montbéliard,France,1164,-,7,1.4,4%,3%,3%
+Haguenau,France,1165,-,7,1.6,5%,4%,3%
+Fayetteville,USA,1166,-,7,1.6,4%,4%,4%
+Braga,Portugal,1167,-,7,1.4,4%,3%,3%
+Belfort,France,1168,-,7,1.2,4%,2%,3%
+Reims,France,1169,-,7,1.4,4%,3%,3%
+Brindisi,Italy,1170,-,7,1.5,4%,3%,4%
+Wilkes-Barre,USA,1171,-,7,1.5,4%,4%,4%
+Stirling,UK,1172,-,7,1.3,4%,2%,3%
+Erkelenz,Germany,1173,-,7,1.3,5%,2%,3%
+Cuneo,Italy,1174,-,7,1.7,4%,4%,4%
+Viareggio,Italy,1175,-,7,1.6,4%,3%,4%
+Rockford,USA,1176,-,7,1.4,4%,3%,3%
+Saint-Dizier,France,1177,-,7,1.5,4%,5%,4%
+Carcassonne,France,1178,-,7,1.6,4%,4%,4%
+Lethbridge,Canada,1179,-,7,1.7,4%,4%,4%
+Parthenay,France,1180,-,7,1.7,4%,5%,4%
+Aubenas,France,1181,-,7,1.6,4%,5%,4%
+Lodi,Italy,1182,-,7,1.3,4%,3%,3%
+Tecuala,Mexico,1183,-,7,1.5,4%,3%,4%
+Laval,France,1184,-,7,1.1,4%,3%,2%
+Beloit,USA,1185,-,7,1.5,4%,3%,3%
+Spartanburg,USA,1186,-,7,1.4,4%,3%,3%
+Vicenza,Italy,1187,-,7,1.2,4%,2%,2%
+Le Mans,France,1188,-,7,1.4,5%,3%,3%
+Spoleto,Italy,1189,-,7,1.6,4%,4%,4%
+Huamantla,Mexico,1190,-,7,1.9,4%,6%,5%
+Binghamton,USA,1191,-,7,1.4,4%,4%,3%
+Roanne,France,1192,-,7,1.3,4%,4%,3%
+Évreux,France,1193,-,7,1.2,4%,3%,3%
+Lakeland,USA,1194,-,7,1.4,4%,3%,3%
+Tarbes,France,1196,-,7,1.3,4%,3%,3%
+San Bonifacio,Italy,1197,-,6,1.2,4%,3%,3%
+Cassino,Italy,1198,-,6,1.2,4%,3%,3%
+Quimper,France,1199,-,6,1.2,4%,3%,3%
+Ferrara,Italy,1200,-,6,1.2,4%,2%,3%
+Narbonne,France,1201,-,6,1.4,4%,3%,4%
+Ballymena,UK,1202,-,6,1.2,4%,3%,3%
+Béthune,France,1203,-,6,1.2,3%,2%,2%
+San Sebastián,Spain,1204,-,6,1.4,4%,3%,3%
+Slagelse,Denmark,1205,-,6,1.3,3%,3%,3%
+Poza Rica de Hidalgo,Mexico,1206,-,6,1.6,4%,4%,4%
+Falkirk,UK,1207,-,6,1.3,4%,3%,3%
+Martorell,Spain,1208,-,6,1.5,4%,4%,4%
+Avila,Spain,1209,-,6,1.5,4%,4%,4%
+Rochefort,France,1210,-,6,1.2,4%,3%,3%
+Angoulême,France,1211,-,6,1.2,4%,3%,2%
+Baytown,USA,1212,-,6,1.1,3%,2%,2%
+Candelaria,Spain,1214,-,6,1.2,4%,3%,3%
+Livorno,Italy,1215,-,6,1.4,4%,3%,4%
+Harlingen,USA,1216,-,6,1.4,4%,3%,3%
+Pistoia,Italy,1217,-,6,1.2,4%,2%,3%
+Sarzana,Italy,1218,-,6,1.3,4%,3%,3%
+Cleveland,USA,1219,-,6,1.3,4%,4%,3%
+An Muileann gCearr,Ireland,1220,-,6,1.5,4%,5%,4%
+Lisieux,France,1221,-,6,1.3,3%,3%,3%
+Minatitlán,Mexico,1222,-,6,1.5,4%,4%,3%
+Nairyah,Saudi Arabia,1223,-,6,1.6,4%,4%,4%
+Chalon-sur-Saône,France,1224,-,6,1.1,4%,3%,2%
+Wheeling,USA,1225,-,6,1.2,4%,3%,3%
+Telford,UK,1227,-,6,1.1,3%,2%,2%
+Poggibonsi,Italy,1228,-,6,1.2,4%,2%,3%
+Dundalk,Ireland,1229,-,6,1.2,4%,3%,3%
+Oxford,USA,1230,-,6,1.4,4%,4%,3%
+Castres,France,1231,-,6,1.3,4%,4%,3%
+Caldas da Rainha,Portugal,1233,-,6,1.6,4%,3%,4%
+St. Catharines,Canada,1234,-,6,1.3,4%,3%,3%
+Bergerac,France,1235,-,6,1.4,4%,4%,3%
+Salamanca,Spain,1236,-,6,1.4,4%,4%,3%
+Santiago Tlapanaloya,Mexico,1237,-,6,1.3,4%,3%,3%
+Moulins,France,1238,-,6,1.1,4%,3%,3%
+Corpus Christi,USA,1239,-,6,1.3,3%,3%,3%
+Saintes,France,1240,-,6,1.1,4%,3%,2%
+Al Khabra,Saudi Arabia,1241,-,6,1.4,3%,3%,3%
+Lucera,Italy,1242,-,6,1.3,4%,3%,3%
+Vesoul,France,1243,-,6,1,3%,3%,2%
+Fall River,USA,1244,-,6,1.3,3%,2%,3%
+Saginaw,USA,1245,-,6,1.3,3%,3%,3%
+Montijo,Portugal,1246,-,6,1.1,3%,1%,2%
+Almassora,Spain,1247,-,6,1.2,4%,2%,3%
+Andover,UK,1248,-,6,1.2,3%,3%,3%
+Angers,France,1249,-,6,1.2,3%,3%,3%
+Béziers,France,1250,-,6,1.2,3%,3%,3%
+Annonay,France,1251,-,6,1.2,4%,4%,3%
+Salamanca,Mexico,1252,-,6,1.3,,,3%
+Glenrothes,UK,1253,-,6,1.3,3%,3%,4%
+Loudéac,France,1254,-,6,1.3,3%,4%,3%
+Persan,France,1255,-,5,1.1,3%,2%,3%
+Udine,Italy,1256,-,5,1.1,3%,3%,3%
+Vitré,France,1257,-,5,0.9,3%,2%,2%
+Cholet,France,1258,-,5,1.1,3%,3%,3%
+Andria,Italy,1259,-,5,1.2,3%,2%,3%
+Huesca,Spain,1260,-,5,1.2,3%,2%,3%
+Metz,France,1261,-,5,1.1,3%,3%,2%
+Kalamazoo,USA,1262,-,5,1.1,3%,2%,2%
+Cremona,Italy,1263,-,5,1.1,3%,3%,3%
+Amilly,France,1264,-,5,1.2,3%,3%,3%
+Ancenis,France,1265,-,5,1.1,3%,2%,3%
+Arras,France,1266,-,5,1,3%,2%,2%
+Payerne,Switzerland,1267,-,5,1,3%,3%,2%
+Puerto del Rosario,Spain,1268,-,5,1.3,3%,4%,3%
+Sherman,USA,1269,-,5,1.2,3%,4%,2%
+Green Bay,USA,1270,-,5,1.1,3%,2%,3%
+Mestre,Italy,1271,-,5,1,3%,2%,2%
+Grosseto,Italy,1272,-,5,1.1,3%,2%,3%
+Springfield,USA,1273,-,5,1.1,3%,3%,3%
+Cumberland,USA,1274,-,5,1.1,3%,3%,2%
+Craigavon,UK,1275,-,5,1.1,3%,3%,3%
+Novara,Italy,1276,-,5,1.1,3%,2%,3%
+Montauban,France,1277,-,5,1.1,3%,3%,3%
+Elyria,USA,1278,-,5,1.1,3%,3%,3%
+Coimbra,Portugal,1279,-,5,1,3%,2%,2%
+Canton,USA,1280,-,5,1,3%,2%,2%
+Viseu,Portugal,1281,-,5,1,3%,3%,2%
+Texas City,USA,1282,-,5,1,3%,2%,2%
+Terni,Italy,1283,-,5,1.1,3%,2%,3%
+Bourg-en-Bresse,France,1284,-,5,1,3%,3%,2%
+Cocoa,USA,1286,-,5,1,3%,2%,2%
+Figueres,Spain,1287,-,5,1.2,3%,3%,3%
+Sierre,Switzerland,1288,-,5,1,3%,3%,2%
+Kenosha,USA,1289,-,5,1,3%,2%,2%
+Tepetlixpa,Mexico,1290,-,5,1.4,3%,4%,4%
+Guamúchil,Mexico,1291,-,5,1.4,3%,3%,4%
+Montélimar,France,1292,-,5,1.3,3%,3%,3%
+Borgomanero,Italy,1293,-,5,1,3%,3%,3%
+Kennewick,USA,1294,-,5,0.9,3%,2%,2%
+Yautepec,Mexico,1295,-,5,1.3,3%,4%,3%
+Youngstown,USA,1296,-,5,1,3%,2%,2%
+Troyes,France,1297,-,5,1,3%,2%,2%
+Texarkana,USA,1298,-,5,1,3%,2%,2%
+Pine Bluff,USA,1299,-,5,1.1,3%,3%,3%
+Bangor,USA,1300,-,5,1.1,3%,3%,3%
+Beaune,France,1301,-,5,1,3%,3%,2%
+Cossato,Italy,1302,-,5,1,3%,3%,3%
+Saint-Quentin,France,1303,-,5,1,3%,3%,2%
+Jerez,Spain,1304,-,5,1,3%,2%,3%
+Vanderbijlpark,South Africa,1305,-,4,1,3%,2%,2%
+Landivisiau,France,1306,-,4,1,3%,3%,2%
+Fort Pierce,USA,1307,-,4,1.1,3%,3%,3%
+Bristol,USA,1308,-,4,1,3%,3%,2%
+Châteauroux,France,1309,-,4,0.9,3%,3%,2%
+Utica,USA,1310,-,4,0.9,3%,2%,2%
+Cesena,Italy,1311,-,4,1,3%,2%,3%
+Montluçon,France,1312,-,4,1,3%,3%,2%
+Cambrai,France,1313,-,4,0.9,3%,2%,2%
+Greensboro,USA,1314,-,4,0.8,2%,2%,2%
+Forlì,Italy,1315,-,4,1,3%,2%,3%
+Peoria,USA,1316,-,4,0.9,2%,2%,2%
+Barcelos,Portugal,1317,-,4,1,2%,2%,2%
+Guingamp,France,1318,-,4,0.9,2%,3%,2%
+Challans,France,1319,-,4,1,2%,3%,3%
+Irvine,UK,1320,-,4,0.8,2%,2%,2%
+Tarragona,Spain,1321,-,4,0.9,2%,2%,2%
+Gainsborough,UK,1322,-,4,0.9,2%,3%,2%
+Abilene,USA,1323,-,4,0.8,2%,2%,2%
+Vila Nova de Famalicão,Portugal,1324,-,4,0.7,2%,2%,2%
+Apatzingán,Mexico,1325,-,4,1.1,3%,4%,3%
+Vercelli,Italy,1326,-,4,0.7,2%,2%,2%
+Athens,USA,1327,-,4,0.7,2%,2%,2%
+Chivasso,Italy,1328,-,3,0.8,2%,2%,2%
+Alençon,France,1329,-,3,0.7,2%,2%,2%
+Wichita Falls,USA,1330,-,3,0.7,2%,2%,2%
+Abbeville,France,1331,-,3,0.8,2%,2%,2%
+Verdun,France,1332,-,3,0.8,2%,2%,2%
+Homécourt,France,1333,-,3,0.8,2%,2%,2%
+Casale Monferrato,Italy,1334,-,3,0.8,2%,2%,2%
+Forbach,France,1335,-,3,0.7,2%,2%,2%
+Châtellerault,France,1336,-,3,0.8,2%,2%,2%
+Asti,Italy,1337,-,3,0.6,2%,1%,2%
+Morlaix,France,1338,-,3,0.7,2%,2%,2%
+High Point,USA,1339,-,3,0.7,2%,2%,2%
+Tortona,Italy,1340,-,3,0.7,2%,2%,2%
+Cavaillon,France,1341,-,3,0.7,2%,2%,2%
+Mazapa,Mexico,1342,-,3,0.8,2%,2%,2%
+Sens,France,1343,-,3,0.6,2%,2%,2%
+Parkersburg,USA,1344,-,3,0.5,2%,1%,1%
+Ludwigsfelde,Germany,1345,-,2,0.5,1%,1%,1%
+Bressuire,France,1346,-,2,0.6,1%,2%,1%
+Châlons-en-Champagne,France,1347,-,2,0.5,1%,1%,1%
+Gioia del Colle,Italy,1348,-,2,0.5,1%,1%,1%
+Remiremont,France,1349,-,2,0.5,1%,1%,1%
+Nules,Spain,1350,-,2,0.4,1%,1%,1%
+Aguas Lindas de Goias,Brazil,1351,-,0,,0%,0%,
+Logroño,Spain,1352,-,0,,0%,0%,
+Cáceres,Spain,1353,-,0,,0%,0%,
+Tønsberg,Norway,1354,-,0,,0%,0%,
+Étrembières,France,1355,-,0,,0%,0%,
+Kecskemét,Hungary,1356,-,0,,0%,0%,
+Hafar Al-Batin,Saudi Arabia,1357,-,0,,4%,3%,
+Jerez de García Salinas,Mexico,1358,-,0,,0%,0%,
+Muhayil,Saudi Arabia,1359,-,0,,0%,0%,
+Unayzah,Saudi Arabia,1360,-,0,,0%,0%,
